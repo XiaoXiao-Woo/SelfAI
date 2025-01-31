@@ -21,7 +21,7 @@
 ## 🌟 Features
 * 👨‍🔬👩‍🔬 User Agent: A specialized LLM module that interprets natural language instructions to generate optimized experimental configurations. It maintains continuous dialogue with researchers through an interactive interface, enabling real-time refinement of experimental parameters based on user feedback and domain-specific requirements.
 
-* 👨‍💻👨‍💻👨‍💻: Engineering Agent: An automated training orchestrator that executes model training with hyper-parameters optimized by Thought Agent. It incorporates advanced experimental management capabilities, including dynamic resource allocation and parallelization support, while maintaining comprehensive experiment tracking and reproducibility.
+* 👨‍💻👨‍💻👨‍💻: Engineering Agent: An automated training orchestrator that executes model training with hyper-parameters optimized by Cognitive Agent. It incorporates advanced experimental management capabilities, including dynamic resource allocation and parallelization support, while maintaining comprehensive experiment tracking and reproducibility.
 
 * 🤯 Cognitive Agent: The system's cognitive module that performs meta-reasoning across experiments. Key capabilities include:
 
@@ -33,7 +33,7 @@
 
   * Adaptive Learning :mag: : Continuously updates its knowledge base from experimental outcomes
 
-  * Failure Analysis: :fire: Diagnoses and recommends solutions for suboptimal results
+  * Failure Analysis :fire: : Diagnoses and recommends solutions for suboptimal results
 
   * Knowledge Synthesis 🔎 Integrates domain knowledge with empirical findings to guide future experiments
   
