@@ -2,6 +2,7 @@
 
 
 <p align="center">
+    Code One Line, SelfAI Start! <br>
     📖 <a href="https://arxiv.org/pdf/2501.04227">Paper</a> 
     | 📂 <a href="https://github.com/XiaoXiao-Woo/SelfAI">Codes</a> 
     | 💻 <a href="https://github.com/XiaoXiao-Woo/SelfAI">Software</a>
