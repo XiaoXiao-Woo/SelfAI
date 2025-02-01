@@ -10,7 +10,7 @@
 
 ----
 
-## ⛴️ Overview:
+## ⛴️ Overview
 
 
 * SelfAI is a self-training AI system that leverages LLM agents to manage the training process autonomously, tailored to meet the specific needs of researchers. It features customized LLM experts capable of accelerating experimental workflows based on user requirements, focusing on experimental objectives such as method comparisons, ablation studies, and detailed discussions.
