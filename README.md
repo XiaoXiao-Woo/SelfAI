@@ -1,8 +1,8 @@
-# SelfAI: Building a Self-Training AI System with LLM Agents
+# SelfAI: self-directed framework for long-horizon scientific discovery
 
 
 <p align="center">
-    Code One Line, SelfAI Start! <br>
+    Code One Line, Automate your experiment! <br>
     📖 <a href="https://arxiv.org">Paper</a> 
     | 📂 <a href="https://github.com/XiaoXiao-Woo/SelfAI">Codes</a> 
     | 💻 <a href="https://github.com/XiaoXiao-Woo/SelfAI">Software</a>
